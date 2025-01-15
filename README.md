@@ -6,9 +6,9 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning C, Web Development.
-- ⚡ In my free time I read religion books.
-- ✨ Hobbies - singing.
+- 🌱 I’m budding developer, working on font-end and practising C language
+- ⚡ I like reading book and learnig Web development
+- ✨ My Hobbies include singing.
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
