@@ -7,7 +7,7 @@
 ### Hi there 👋
 
 - 🌱 I’m budding developer, working on font-end and practising C language
-- ⚡ I like reading book and learnig new skills
+- ⚡ I like reading book and learning new skills
 - ✨ My Hobbies include singing.
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
