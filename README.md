@@ -45,10 +45,6 @@
 
 <br>
 
-##
-
-<img align="left" src="https://profile-counter.glitch.me/Negipallavi/count.svg?"/>
-<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Negipallavi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
